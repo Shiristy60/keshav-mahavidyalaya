@@ -1,5 +1,5 @@
 # Clone Website of Keshav Mahavidyalaya 
-
+# Website contains all information regarding socities,student cell, placement cell,faculty 
 # Screenshots of Website
 
 ![Screenshot from 2019-10-03 00-23-22](https://user-images.githubusercontent.com/31301266/66073223-52d26d00-e574-11e9-9a81-66c21efbe20e.png)
